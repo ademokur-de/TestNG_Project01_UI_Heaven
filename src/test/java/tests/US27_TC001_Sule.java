@@ -9,7 +9,7 @@ import utilities.Driver;
 import utilities.ReusableMethods;
 import utilities.TestBaseReport;
 
-public class US_027_SI extends TestBaseReport {
+public class US27_TC001_Sule extends TestBaseReport {
 
     // US027
     // admin dashoboard sayfasında Header bölümünden, sitenin anasayfasına gidebildiğimi,

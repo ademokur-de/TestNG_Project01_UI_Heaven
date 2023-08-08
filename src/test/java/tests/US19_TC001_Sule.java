@@ -12,7 +12,7 @@ import utilities.Driver;
 import utilities.ReusableMethods;
 import utilities.TestBaseReport;
 
-public class US_019_SI extends TestBaseReport {
+public class US19_TC001_Sule extends TestBaseReport {
     // US019
     // Kayıtlı kullanıcı olarak Home page sayfasının footer bölümündeki öğelerin ve
     // fonksiyonların görünür ve

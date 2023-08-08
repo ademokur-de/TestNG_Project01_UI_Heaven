@@ -10,7 +10,7 @@ import utilities.Driver;
 import utilities.ReusableMethods;
 import utilities.TestBaseReport;
 
-public class US_036_SI extends TestBaseReport {
+public class US36_TC001_Sule extends TestBaseReport {
 
     //US 036
     // admin dahsboarda giriş yapıp

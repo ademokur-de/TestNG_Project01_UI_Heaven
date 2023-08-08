@@ -12,7 +12,7 @@ import utilities.ReusableMethods;
 import utilities.TestBaseReport;
 
 
-public class US_021_SI extends TestBaseReport {
+public class US21_TC001_Sule extends TestBaseReport {
 
     // US021
     // Kayıtlı kullanıcı olarak sitedeki mülklerin bilgi ayrıntılarına ulaşıp

@@ -3,18 +3,18 @@
     <test name="run classes">
 
         <classes>
-            <class name="tests.US02_TC001_Adm"  />
-            <class name="tests.US17_TS01_enver"/>
-            <class name="tests.US18_TC001_Adm"  />
-            <class name="tests.US14_TC_001_Firdevs"/>
-            <class name="tests.US46_TC001_Sevda"/>
-            <class name="tests.US46_TC002_Sevda"/>
-            <class name="tests.US31_Elif"/>
-            <class name="tests.US33_TC001_Yusuf"/>
-            <class name="tests.US_036_SI"/>
-            <class name="tests.US48_TC003_Vysl"/>
-            <class name="tests.US48_TC004_Vysl"/>
-            <class name="tests.US50_TC002"/>
+            <class name="tests.US02_TC01_Adm"/>
+            <class name="tests.US17_TC01_Enver"/>
+            <class name="tests.US18_TC01_Adm"/>
+            <class name="tests.US14_TC01_Firdevs"/>
+            <class name="tests.US46_TC01_Sevda"/>
+            <class name="tests.US46_TC02_Sevda"/>
+            <class name="tests.US31_TC01_Elif"/>
+            <class name="tests.US33_TC01_Yusuf"/>
+            <class name="tests.US36_TC01_Suleyman"/>
+            <class name="tests.US48_TC03_Vysl"/>
+            <class name="tests.US48_TC04_Vysl"/>
+            <class name="tests.US50_TC02_Metin"/>
         </classes>
     </test>
 

@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="run the classes alltogether">
+    <test name="run classes">
+
+        <classes>
+            <class name="test.US02_TC001_Adm"  />
+            <class name="test.US17_TS01_enver"/>
+            <class name="test.US18_TC001_Adm"  />
+            <class name="test.US14_TC_001_Firdevs"/>
+            <class name="test.US46_TC001_Sevda"/>
+            <class name="test.US46_TC002_Sevda"/>
+            <class name="test.US31_Elif"/>
+            <class name="test.US33_TC001_Yusuf"/>
+            <class name="test.US_036_SI"/>
+            <class name="test.US48_TC003_Vysl"/>
+            <class name="test.US48_TC004_Vysl"/>
+            <class name="test.US50_TC002"/>
+        </classes>
+    </test>
+
+</suite>
